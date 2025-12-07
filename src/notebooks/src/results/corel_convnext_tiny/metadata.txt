@@ -1,0 +1,4 @@
+Model: ConvNeXt Tiny
+Total samples: 1000
+Mean inference (ms): 41.3514
+Std inference (ms): 31.4630
